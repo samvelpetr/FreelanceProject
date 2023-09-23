@@ -1,0 +1,380 @@
+@media screen and (max-width:1550px) {
+    .logo .btn-primary {
+        margin-top: 38px;
+    }
+    .maxW{
+        max-width: 100%;
+      }
+    .owl-carousel {
+        width: 100%;
+    }
+
+    .logo4 {
+        right: 2px;
+    }
+
+    .logo {
+        /* position: absolute !important; */
+        right: 50% !important;
+        transform: translateX(50%);
+        /* width: 100%; */
+    }
+
+    .br1 {
+        display: block;
+    }
+
+    .section-title {
+        text-align: left;
+    }
+
+    .main-navbar {
+        width: 100%;
+        top: 0;
+        border-radius: 0
+    }
+
+    .navbar-cart {
+        display: block
+    }
+
+    .navbar-nav {
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100vh;
+        list-style: none;
+        display: flex;
+        z-index: 5;
+        background: #DC7200;
+        align-content: center;
+        justify-content: center;
+        gap: 50px;
+        text-align: center;
+    }
+
+    .navbar-nav li {
+        padding: 0 !important;
+
+    }
+
+    .navbar-toggler {
+        z-index: 10;
+        display: block !important;
+        float: right !important;
+    }
+
+    .container {
+        justify-content: space-between !important;
+    }
+
+    .navbar-expand-xl .navbar-nav {
+        flex-direction: column !important;
+    }
+
+    .navbar-collapse {
+        flex-basis: 0 !important;
+    }
+
+    .fixed {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .br2 {
+        display: block;
+    }
+}
+
+@media screen and (max-width:1140px) {
+    .br3 {
+        display: block;
+    }
+}
+
+@media screen and (max-width:990px) {
+    .ht-100 {
+        overflow: unset !important;
+    }
+
+    .note .visor svg {
+        width: 450px !important;
+    }
+
+    .outvisor svg {
+        width: 330px;
+    }
+
+    .woter1 {
+        display: block;
+    }
+
+    #thing {
+        display: none !important;
+    }
+
+    .our-clients-contant {
+        bottom: -10px;
+        z-index: 1;
+    }
+
+    #scratch canvas {
+        display: none !important;
+    }
+
+    .popup-video-area {
+        margin-top: 340px;
+        padding: 0 !important;
+    }
+
+    .logo {
+        width: 100%;
+        z-index: 1010;
+        position: absolute !important;
+    }
+
+    .our-service-contant {
+        width: 100%;
+        bottom: -34%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #video {
+        padding: 0 !important;
+    }
+
+    .footer__row {
+        flex-direction: column !important;
+    }
+
+    .container .footer__row .offset-sm-4 {
+        margin-left: 10px !important;
+        margin-bottom: 50px !important;
+        text-align: center !important;
+    }
+
+    .footer-widget {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        line-height: normal !important;
+    }
+
+    #scratch {
+        pointer-events: none;
+    }
+}
+
+@media screen and (max-width:860px) {
+    .novisor {
+        right: 10vw;
+    }
+
+    .withvisor {
+        left: 10vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .faq-area {
+        padding: 224px 14px !important;
+    }
+    .faq-area {
+        height: inherit;
+    }
+    .shop-area {
+        padding: 2px 54px 50px 54px;
+    }
+    .accordion-item {
+        width: 100% !important;
+    }
+
+    .accordion-title {
+        font-size: 18px;
+    }
+
+    .note .visor svg {
+        width: 352px !important;
+    }
+
+    .outvisor svg {
+        width: 230px;
+    }
+
+    .go-top {
+        right: 10% !important;
+    }
+
+    .logo .btn-primary {
+        margin-top: 340px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .testimonials-area-bg {
+        background-image: url(../../images/image.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+
+    .our-service-contant ul {
+        padding: 20px 0 21px 117px;
+        /* text-align: center; */
+    }
+
+    .our-service-contant h3 {
+        font-size: 20px !important;
+    }
+
+    .our-service-contant {
+        right: 50%;
+        bottom: -34%;
+        width: 100%;
+    }
+
+    .video-btn a {
+        margin: -125px 0 0 -50px;
+    }
+
+
+    .defis li {
+        font-size: 18px !important;
+
+    }
+
+    .accordion-content {
+        margin: 10px 0 0 10px;
+    }
+
+    .accordion-content p {
+        padding: 0 !important;
+        font-size: 18px !important;
+    }
+
+    .our-clients-contant {
+        right: 50%;
+        bottom: -225px;
+        width: 100%;
+        transform: translateX(50%)
+    }
+
+    .our-clients {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+
+    }
+
+    .our-clients li {
+        width: 90% !important;
+    }
+
+    .footer-area p {
+        font-size: 17px !important;
+    }
+
+    .footer-widget a {
+        font-size: 20px;
+    }
+
+    .note .visor svg {
+        width: 330px !important;
+    }
+
+    .outvisor svg {
+        width: 190px !important;
+    }
+
+    .popup-video-area {
+        background-image: url(../../images/miniglux.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 557px;
+        margin-top: 338px;
+    }
+
+    .video-btn .ppYt {
+        margin: 55px 0 0 -50px;
+    }
+
+    .testimonials-area {
+        height: 670px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .video-btn a {
+        margin: -150px 0 0 -50px;
+    }
+    .logo .btn-primary {
+        margin-top: 240px;
+    }
+    .testimonials-area {
+        height: 555px;
+    }
+
+    .withvisor,
+    .novisor {
+        font-size: 18px;
+    }
+
+    .defis {
+        padding-left: 30px !important;
+    }
+
+    .outvisor svg {
+        width: 130px !important;
+    }
+
+    .note .visor svg {
+        width: 272px !important;
+    }
+
+    .startup-banner-area {
+        background-image: url(../../images/motomini.png);
+        background-position: bottom center;
+    }
+
+    .our-clients li {
+        font-size: 18px !important;
+    }
+
+    .faq-area h2 {
+        font-size: 23px;
+    }
+
+    .section-title>h2 {
+        font-size: 41px !important;
+    }
+
+    .logo {
+        margin-top: 100px;
+
+    }
+
+    /* .popup-video-area {
+        margin-top: 245px;
+    } */
+}
+
+@media screen and (max-width:370px) {
+    .popup-video-area {
+        margin-top: 339px;
+        height: 415px;
+    }
+
+    .testimonials-area {
+        height: 480px;
+    }
+
+    .video-btn a {
+        margin: -109px 0 0 -50px;
+    }
+}
